@@ -21,7 +21,8 @@ CPU : intel(R) Core™ i7-5790 CPU @ 3.60GHz
 Memory : 8G   
 IDE : Microsoft Visual studio 2019 Version 16.0.3  
 Compiler : Version _MSC_VER 1921  
-Microsoft .NET Framework : 4.6  
+Microsoft .NET Framework : 4.6
+Entity Framework  
 언어 : C#  
 # **구동 영상 URL**  
 # **기대 효과**    
