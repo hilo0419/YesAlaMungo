@@ -1,6 +1,6 @@
 **#YesAlaMungo**  
 
-**# C# Team Project **  
+#** C# Team Project **  
 권세연, 김유민, 박동준, 박형준, 최해송  
 
 **#YesAlaMungo 프로그램이란?**  
