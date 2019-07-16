@@ -1,7 +1,7 @@
 # **YesAlaMungo**  
 
 ## **C# Team Project**  
-권세연, 김유민, 박동준, 박형준, 최해송  
+권세연, 김유민, 박동, 박형준, 최해송  
 
 # **YesAlaMungo 프로그램이란?**  
 **온라인 + 오프라인 중고 서점 시스템 프로그램**      
@@ -20,7 +20,7 @@ OS :　windows 7 Professional K
 CPU : intel(R) Core™ i7-5790 CPU @ 3.60GHz   
 Memory : 8G   
 IDE : Microsoft Visual studio 2019 Version 16.0.3  
-Compiler : Version _MSC_VER 1921  
+Compiler : Compiler: Roslyn  
 Microsoft .NET Framework : 4.6  
 Entity Framework   
 언어 : C#  
