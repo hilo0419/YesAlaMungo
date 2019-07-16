@@ -23,7 +23,7 @@ IDE : Microsoft Visual studio 2019 Version 16.0.3
 Compiler : Version _MSC_VER 1921  
 Microsoft .NET Framework : 4.6  
 언어 : C#  
-
+# **구동 영상 URL**  
 # **기대 효과**    
 본 프로그램을 통하여 중고서적 정보의 CRUD를 보다 쉽게 관리할 수 있다.  
 책의 행 정보를 더블 클릭하여 가격 및 등급, 상태 등 여러 정보를 띄어주어 편리한 검색이 가능하다.  
