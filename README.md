@@ -1,4 +1,4 @@
-# **YesAlaMungo**  
+# **<YesAlaMungo>**  
 
 # **C# Team Project**  
 권세연, 김유민, 박동준, 박형준, 최해송  
