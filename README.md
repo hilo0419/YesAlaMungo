@@ -20,7 +20,7 @@ OS :　windows 7 Professional K
 CPU : intel(R) Core™ i7-5790 CPU @ 3.60GHz   
 Memory : 8G   
 IDE : Microsoft Visual studio 2019 Version 16.0.3  
-Compiler Ver: Roslyn 3.1.1
+Compiler Ver: Roslyn 3.1.1  
 Microsoft .NET Framework : 4.6  
 Entity Framework   
 언어 : C#  
